@@ -4,7 +4,7 @@
 
 - Member 1 work : AI Model Development
 
-![alt text](image.png)
+![alt text](ReadmeImage/image.png)
 
 - Member 2 Work : Blockchain Integration
 
